@@ -1,0 +1,6 @@
+project-name = "gcbdr-gl-2"
+prefix = "cloudezy"
+environment = "dev"
+iprange = "192.168.10.0/24"
+bucket-name = "cloudezy-bucket"
+location = "us-central1"
