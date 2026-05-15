@@ -9,12 +9,12 @@ variable "location" {
     description = "variable to define region"
   
 }
-variable "bucket-name" {
+/* variable "bucket-name" {
     type = string
     default = ""
     description = "variable to define project name"
   
-}
+} */
 variable "environment" {
     type = string
     description = "variable to define resource environment"

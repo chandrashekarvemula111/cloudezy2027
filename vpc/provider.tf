@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket = var.bucket-name
+    bucket = cloudezy-bucket
     prefix = "terraform/state"  
 }
 } 
